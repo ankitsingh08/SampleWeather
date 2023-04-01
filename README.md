@@ -44,3 +44,6 @@
 Unit test cases are included for the following:
 - ViewModel 
 - Repository 
+
+# Screenshots
+ <img src="https://user-images.githubusercontent.com/16702310/229298143-86f0a9fc-961e-4c37-806a-8baddd74f4e7.png" width="30%">  <img src="https://user-images.githubusercontent.com/16702310/229298140-2c4cbf3f-a0fd-4f1c-8874-26a9d5fbfa9a.png" width="30%">
