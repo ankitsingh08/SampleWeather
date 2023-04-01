@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="str_cancel">cancel</string>
+    <string name="str_ok">ok</string>
+    <string name="str_error_unauthorized">unAuthorized</string>
+    <string name="str_error_format">Error in format</string>
+    <string name="str_error_EOF">Error in data conversion</string>
+    <string name="str_error_io">No Internet</string>
+    <string name="str_error_json_syntax">Error in data conversion</string>
+    <string name="str_error_undefined">Error happened</string>
+    <string name="str_feature_is_unavailable">The feature is unavailable because it requires a
+        location permission to continue.</string>
+    <string name="str_why_we_need_permission">We need this permission to provide weather information
+        for you.</string>
+    <string name="str_open_settings">open settings</string>
+    <string name="str_open_location_setting">We need you to enable location to proceed with this feature.</string>
+    <string name="str_location_permission_need">feature needs locaion permission</string>
+    <string name="str_click_to_enable">Click to Enable</string>
+    <string name="feels_like">Feels like %1$sº</string>
+    <string name="min_max_temp">Min %1$sº / Max %2$sº</string>
+
+</resources>
