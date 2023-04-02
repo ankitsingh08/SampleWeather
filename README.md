@@ -14,9 +14,6 @@
 - Extension Functions
 - Unit Testing(Junit, Mockito)<br />
 
-# App Architecture Details:
-![Untitled Diagram (1)](https://github.com/ankitsingh08/CakeShop/blob/master/app_architecture.png)
-
  # View
  This layer mainly deals with the UI of the application and has its own presentation models.
  
